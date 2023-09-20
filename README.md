@@ -1,3 +1,3 @@
-# goit-markup-hw-02
-Homework №2 
-"Вступ до CSS"
+# goit-markup-hw-03
+Homework №3
+"Блокова модель. Flexbox"
