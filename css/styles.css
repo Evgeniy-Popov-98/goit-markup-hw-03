@@ -176,7 +176,6 @@ body {
 
 /* -------------------- DESC --------------------- */
 
-<<<<<<< Updated upstream
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -190,8 +189,6 @@ body {
   overflow: hidden;
 }
 
-=======
->>>>>>> Stashed changes
 .desc-list {
   display: flex;
   /* justify-content: space-between; */
@@ -288,8 +285,7 @@ body {
 }
 
 .portfolio-content {
-  padding: 32px 0;
-  padding-left: 16px;
+  padding: 32px 16px;
   border: 1px solid #e7e9fc;
   border-top: none;
 }
