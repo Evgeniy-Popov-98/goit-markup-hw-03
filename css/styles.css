@@ -60,7 +60,7 @@ body {
 }
 
 .logo {
-  padding-right: 76px;
+  margin-right: 76px;
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -79,7 +79,6 @@ body {
 }
 
 .header-item {
-  padding: 24px 0;
   margin-right: 40px;
 }
 
@@ -88,6 +87,7 @@ body {
 }
 
 .header-link {
+  padding: 24px 0;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -244,7 +244,7 @@ body {
 }
 
 .team-content {
-  padding: 32px 16px;
+  padding: 32px 0;
 }
 
 .team-subtitle {
@@ -307,8 +307,9 @@ body {
 
 /* --------------------- FOOTER ------------------ */
 
-.section-footer {
+.footer {
   background-color: #2e2f42;
+  padding: 100px 0;
 }
 
 .footer-link {
